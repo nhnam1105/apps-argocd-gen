@@ -1,0 +1,6 @@
+{
+    "repo_url": "https://github.com/nhnam1105/internal-istio.git",
+    "chart_path": "istio-system/chart",
+    "project": "infra",
+    "namespace": "istio-system"
+}
